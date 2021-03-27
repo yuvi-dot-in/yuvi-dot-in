@@ -23,7 +23,7 @@
   
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=yuvi-dot-in" />
+<img src="https://github-readme-stats.vercel.app/api?username=yuvi-dot-in&&show_icons=true&title_color=ffff&icon_color=35ace8&text_color=ebe046&bg_color=151515" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvi-dot-in&theme=tokyonight" />
 
 </center>
