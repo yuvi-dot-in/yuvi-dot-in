@@ -11,7 +11,7 @@
 
 <h1>Languages I know</h1>
 <center>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"  style="height: 100px;"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0j8JS1_nau7zTD5O6-i3opjV29qY7_oVEow&usqp=CAU"  style="height: 100px;"/>
   <img src="https://en.wikipedia.org/wiki/File:HTML5_logo_and_wordmark.svg" style="height: 100px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" style="height: 100px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/225px-ISO_C%2B%2B_Logo.svg.png" style="height: 100px;"/>
