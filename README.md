@@ -10,6 +10,3 @@
 - ⚡ Fun fact: 🤭🤭🤭
 
 <img src="https://github-readme-stats.vercel.app/api?username=yuvi-dot-in" />
-
-  name: Profile Readme Stats
-  uses: teoxoy/profile-readme-stats@v1
