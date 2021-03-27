@@ -6,8 +6,10 @@
 - 🌱 I’m currently learning Backend Technologies
 - 💬 Ask me about FrontEnd Dev
 - 📫 How to reach me: yuvaraj1392002@gmail.com
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: 🤭🤭🤭
+
+Connect with me
+<a href="https://www.instagram.com/yuvi.627/" target="_blank" > <img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" /></a>
+<a href="https://www.linkedin.com/in/yuvaraj-524b19190" target="_blank" > <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" /> </a>
 <!--
 <h1>Languages I know</h1>
 
