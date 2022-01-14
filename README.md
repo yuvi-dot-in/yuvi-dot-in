@@ -19,8 +19,7 @@ Connect with me <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/225px-ISO_C%2B%2B_Logo.svg.png" style="height: 100px;"/>
   <br> -->
 <center>
-  <h2>JavaScript Libraries</h2>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/330px-React-icon.svg.png" />
+  
 
   
 
