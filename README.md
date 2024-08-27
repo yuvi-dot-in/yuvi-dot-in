@@ -2,9 +2,8 @@
 
 
 
-- 🔭 I’m currently working on NextJS
-- 🌱 I’m currently learning Backend Technologies
-- 💬 Ask me about FrontEnd Dev
+- 🔭 I’m currently working on .Net and Angular
+- 🌱 I’m currently learning Cloud Technologies
 - 📫 How to reach me: yuvaraj1392002@gmail.com
 
 Connect with me <br>
