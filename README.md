@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on .Net and Angular
 - 🌱 I’m currently learning Cloud Technologies
+- Past experience in React and Next JS
 - 📫 How to reach me: yuvaraj1392002@gmail.com
 
 Connect with me <br>
