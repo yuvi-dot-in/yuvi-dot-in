@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yuvaraj
 
 I'm a passionate **Software Developer** working primarily with **.NET** and **Angular** to build scalable web applications. I enjoy exploring how modern **cloud technologies** and **AI systems** can improve the development lifecycle and user experience.
-
+📄[Resume](https://drive.google.com/file/d/18jLDMBUevvLdBlT8l_EnozRS7_Ir1M0S/view?usp=drive_link)
 ---
 
 ### 🔧 Technologies I Work With
