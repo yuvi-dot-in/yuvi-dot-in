@@ -1,30 +1,11 @@
-### Hi I'm Yuvaraj
+### 👋 Hi there! I'm Yuvaraj
 
+I’m a Software Developer with experience in building scalable full-stack applications using .NET Core, Angular, and Azure. I'm passionate about leveraging cloud platforms and AI to solve real-world problems.
 
+- 🔧 Technologies: .NET 8, Angular, Azure Functions, Agentic AI, Docker, Kubernetes
+- 🛠️ Focus Areas: Full-stack Development, DevOps, Microservices, Cloud-Native Apps
+- 🧠 Learning: System Design, Azure OpenAI, Agentic Architectures
+- 🏆 Hackathon Winner @ Deloitte USI – Built an AI-powered browser extension
+- 📄 [My Resume](link-to-your-resume.pdf)
 
-- 🔭 I’m currently working on .Net and Angular
-- 🌱 I’m currently learning Cloud Technologies
-- Past experience in React and Next JS
-- 📫 How to reach me: yuvaraj1392002@gmail.com
-
-Connect with me <br>
-<a href="https://www.instagram.com/yuvi.627/" target="_blank" > <img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" /></a><span>&emsp;</span>
-<a href="https://www.linkedin.com/in/yuvaraj-524b19190" target="_blank" > <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" /> </a>
-<!--
-<h1>Languages I know</h1>
-
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0j8JS1_nau7zTD5O6-i3opjV29qY7_oVEow&usqp=CAU"  style="height: 100px;"/>
-  <img src="https://en.wikipedia.org/wiki/File:HTML5_logo_and_wordmark.svg" style="height: 100px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" style="height: 100px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/225px-ISO_C%2B%2B_Logo.svg.png" style="height: 100px;"/>
-  <br> -->
-<center>
-  
-
-  
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=yuvi-dot-in&&show_icons=true&title_color=ffff&icon_color=35ace8&text_color=ebe046&bg_color=151515" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvi-dot-in&theme=tokyonight" />
-
-</center>
+📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/yuvaraj-dot-in/) | [GitHub](https://github.com/yuvi-dot-in)
